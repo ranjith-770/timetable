@@ -1,0 +1,26 @@
+ * {
+    background-color: aquamarine;
+}
+
+.table {
+
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+th,
+td {
+    border: 2px solid black;
+}
+
+td {
+    background-color:yellow;
+    text-align: center;
+    padding: 5px;
+}
+
+th {
+    background-color: white;
+}  
